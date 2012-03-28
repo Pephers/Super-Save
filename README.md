@@ -1,5 +1,5 @@
 # Super Save
-Author: Chiel Robben <chiel@pephers.org>
+Author: Chiel Robben
 
 Website: http://pephers.org
 
